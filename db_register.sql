@@ -41,6 +41,7 @@ CREATE TABLE IF NOT EXISTS `register` (
 -- 转存表中的数据 `register`
 --
 
+
 INSERT INTO `register` (`id`, `username`, `pwd`, `phonenumber`) VALUES
 (1, '张三', '235656', '78556444'),
 (2, 'ww', '12', '12346'),
